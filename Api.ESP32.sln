@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.ESP32", "Api.ESP32.csproj", "{AED665D3-8FC0-4342-97B6-50B16D4E99E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED665D3-8FC0-4342-97B6-50B16D4E99E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED665D3-8FC0-4342-97B6-50B16D4E99E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED665D3-8FC0-4342-97B6-50B16D4E99E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED665D3-8FC0-4342-97B6-50B16D4E99E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ABE1C6F-5D26-4233-80F1-BC0185D29D26}
+	EndGlobalSection
+EndGlobal
